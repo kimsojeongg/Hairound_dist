@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Hairound_dist/static/css/main.e88b42f7.css",
+    "main.js": "/Hairound_dist/static/js/main.b954b4c6.js",
+    "static/js/787.a2bf511c.chunk.js": "/Hairound_dist/static/js/787.a2bf511c.chunk.js",
+    "static/media/main.png": "/Hairound_dist/static/media/main.5c8841c269c543c2c540.png",
+    "static/media/Ex1_2.png": "/Hairound_dist/static/media/Ex1_2.d95c7dfe93758e0081a4.png",
+    "static/media/Ex1_4.png": "/Hairound_dist/static/media/Ex1_4.69709008842b7b3250e9.png",
+    "static/media/Ex1_1.png": "/Hairound_dist/static/media/Ex1_1.ab4c3d9f4051506be160.png",
+    "static/media/Ex1_3.png": "/Hairound_dist/static/media/Ex1_3.b72681fba74d5a780190.png",
+    "static/media/Ex4.png": "/Hairound_dist/static/media/Ex4.c643233486478fa05457.png",
+    "static/media/Ex6.png": "/Hairound_dist/static/media/Ex6.5f1adeb6b3bf4aa4018b.png",
+    "static/media/Ex5.png": "/Hairound_dist/static/media/Ex5.5cbac734331f286e5148.png",
+    "static/media/Ex1.png": "/Hairound_dist/static/media/Ex1.10b07971b7b993189735.png",
+    "static/media/Ex3.png": "/Hairound_dist/static/media/Ex3.b477abf21dc1718fd447.png",
+    "static/media/Ex2.png": "/Hairound_dist/static/media/Ex2.982ee7cdbd33d9344d57.png",
+    "index.html": "/Hairound_dist/index.html",
+    "main.e88b42f7.css.map": "/Hairound_dist/static/css/main.e88b42f7.css.map",
+    "main.b954b4c6.js.map": "/Hairound_dist/static/js/main.b954b4c6.js.map",
+    "787.a2bf511c.chunk.js.map": "/Hairound_dist/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88b42f7.css",
+    "static/js/main.b954b4c6.js"
+  ]
+}
